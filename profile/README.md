@@ -9,6 +9,59 @@ KISTI 글로벌R&D분석센터에서 구축한 글로벌 과학기술 이종데�
 
 - 사이트: https://globalrnd.kisti.re.kr
 - 사이트 소개: https://globalrnd.kisti.re.kr/about/site
+- 데이터 인사이트: https://globalrnd.kisti.re.kr/datainsight
+- 과학기술 스코어보드: https://globalrnd.kisti.re.kr/scoreboard
+
+## Interactive Showcase
+
+GitHub Pages 기반으로 공개 가능한 보고서/데모(인터랙티브 시각화 포함)를 제공합니다.
+
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://kisti-globalrnd.github.io/Data-Insight-2024-ntis/">
+        <img src="../assets/demo-data-insight-preview.png" alt="Data Insight (NTIS 2024) interactive scatter plot demo" width="100%" />
+      </a>
+      <br /><b>Data Insight (NTIS 2024)</b>
+      <br />Plotly 기반 인터랙티브 산점도(Threshold/축 선택)
+      <br /><a href="https://kisti-globalrnd.github.io/Data-Insight-2024-ntis/">Demo</a> · <a href="https://github.com/KISTI-GlobalRnD/Data-Insight-2024-ntis">Repo</a>
+    </td>
+    <td width="50%">
+      <a href="https://kisti-globalrnd.github.io/kriss-databook-2025/website/">
+        <img src="../assets/demo-kriss-databook-preview.png" alt="KRISS Databook 2025 (Quarto) website preview" width="100%" />
+      </a>
+      <br /><b>KRISS Databook 2025</b>
+      <br />Quarto 기반 보고서(Website/Book) 공개
+      <br /><a href="https://kisti-globalrnd.github.io/kriss-databook-2025/website/">Website</a> · <a href="https://kisti-globalrnd.github.io/kriss-databook-2025/book/">Book</a> · <a href="https://github.com/KISTI-GlobalRnD/kriss-databook-2025">Repo</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://kisti-globalrnd.github.io/openalex-forum-kr/">
+        <img src="../assets/demo-openalex-forum-preview.png" alt="OpenAlex User Forum KR landing page preview" width="100%" />
+      </a>
+      <br /><b>OpenAlex User Forum KR</b>
+      <br />커뮤니티 자료/튜토리얼/발표자료 허브
+      <br /><a href="https://kisti-globalrnd.github.io/openalex-forum-kr/">Site</a> · <a href="https://github.com/KISTI-GlobalRnD/openalex-forum-kr">Repo</a>
+    </td>
+    <td width="50%">
+      <a href="https://kisti-globalrnd.github.io/2025-kisti-cwts-leidenranking/">
+        <img src="../assets/demo-leidenranking-preview.png" alt="2025 KISTI–CWTS Leiden Ranking launch event page preview" width="100%" />
+      </a>
+      <br /><b>2025 KISTI–CWTS Leiden Ranking</b>
+      <br />공개발표회 랜딩/사전등록 페이지
+      <br /><a href="https://kisti-globalrnd.github.io/2025-kisti-cwts-leidenranking/">Site</a> · <a href="https://github.com/KISTI-GlobalRnD/2025-kisti-cwts-leidenranking">Repo</a>
+    </td>
+  </tr>
+</table>
+
+## Public Projects
+
+- `Home` — 조직 소개/링크 모음: https://github.com/KISTI-GlobalRnD/Home
+- `Data-Insight-2024-ntis` — 데이터 인사이트 보고서 시범 공개(Plotly 대시보드): https://github.com/KISTI-GlobalRnD/Data-Insight-2024-ntis (Demo: https://kisti-globalrnd.github.io/Data-Insight-2024-ntis/)
+- `kriss-databook-2025` — KRISS 키워드 추출 최종 보고서(Quarto): https://github.com/KISTI-GlobalRnD/kriss-databook-2025 (Website: https://kisti-globalrnd.github.io/kriss-databook-2025/website/, Book: https://kisti-globalrnd.github.io/kriss-databook-2025/book/)
+- `2025-kisti-cwts-leidenranking` — 라이덴 랭킹 공개발표회 랜딩/사전등록: https://github.com/KISTI-GlobalRnD/2025-kisti-cwts-leidenranking (Site: https://kisti-globalrnd.github.io/2025-kisti-cwts-leidenranking/)
+- `openalex-forum-kr` — OpenAlex 사용자 포럼 자료 허브: https://github.com/KISTI-GlobalRnD/openalex-forum-kr (Site: https://kisti-globalrnd.github.io/openalex-forum-kr/)
 
 ## 배경
 
@@ -21,9 +74,6 @@ KISTI 글로벌R&D분석센터에서 구축한 글로벌 과학기술 이종데�
 ## 제공 서비스
 
 KISTI 글로벌R&D분석센터는 논문, 특허, 펀딩 등 다양한 과학기술 데이터를 연계 분석할 수 있는 기반과 분석 모델을 구축해, 데이터 기반의 다면적 이해와 빠른 대응을 지원합니다.
-
-- 데이터 인사이트: https://globalrnd.kisti.re.kr/datainsight
-- 과학기술 스코어보드: https://globalrnd.kisti.re.kr/scoreboard
 
 ## 원칙
 
